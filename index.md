@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Hi there, I'm Md. Bozlur Rahman 👋
+<!--
+**bozlurrahman/bozlurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=bozlurrahman&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![Bozlur's github stats](https://github-readme-stats.vercel.app/api?username=bozlurrahman&count_private=true&show_icons=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozlurrahman&count_private=true&langs_count=8&hide=html,css&layout=compact)](https://github.com/bozlurrahman/github-readme-stats)
 
-You can use the [editor on GitHub](https://github.com/bozlurrahman/bozlurrahman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Languages and Tools:
+<p>
+<img 
+     src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" 
+     alt="PHP" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
+     alt="Javascript" height="50" style="vertical-align:top; margin:4px">
+<!-- <img 
+     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
+     alt="Python" height="50" style="vertical-align:top; margin:4px"> -->
+<!-- <img 
+     src="https://bashlogo.com/img/logo/jpg/full_colored_dark.jpg" 
+     alt="Bash" height="50" style="vertical-align:top; margin:4px"> -->
+<!--  <img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" 
+     alt="Vim" height="50" style="vertical-align:top; margin:4px"> -->
+  <img 
+     src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
+     alt="HTML" height="50" style="vertical-align:top; margin:4px">
+  <img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
+     alt="CSS" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" 
+     alt="Node.js" height="50" style="vertical-align:top; margin:4px">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Frameworks/CMS:
+<p>
+<img 
+     src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" 
+     alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" 
+     alt="WordPress" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://cdn.auth0.com/blog/react-js/react.png" 
+     alt="React JS" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" 
+     alt="Vue.js" height="50" style="vertical-align:top; margin:10px">
+<img 
+     src="https://transang.me/content/images/2019/11/ExpressJS.png"
+     alt="expressJS" height="50" style="vertical-align:top; margin:10px">
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🌱 I’m currently learning Node.js and working on some other projects.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bozlurrahman/bozlurrahman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 📫 How to reach me: bozlurrahman.cmt@gmail.com
