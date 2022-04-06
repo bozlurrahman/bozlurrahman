@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=bozlurrahman)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bozlurrahman&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Bozlur's github stats](https://github-readme-stats.vercel.app/api?username=bozlurrahman&count_private=true&show_icons=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozlurrahman&count_private=true&langs_count=8&hide=html,css&layout=compact)](https://github.com/bozlurrahman/github-readme-stats)
 
