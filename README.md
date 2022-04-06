@@ -66,3 +66,102 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js and working on some other projects.
 
 - 📫 How to reach me: bozlurrahman.cmt@gmail.com
+
+<table>
+<tr >
+<td valign="center">
+    <a href="https://www.facebook.com/bozlurrahman.cmt/">
+  <img align="left" alt="Dip's Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
+</a>
+</td>
+<td valign="center">
+    <a href="https://twitter.com/bozlurrahmancmt">
+  <img align="left" alt="Dip's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+</td>
+<td valign="center">
+<a href="https://www.linkedin.com/in/bozlurrahman/">
+  <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</td>
+<td valign="center">
+<a href="https://github.com/bozlurrahman">
+  <img align="left" alt="Dip's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+</td>
+<td valign="center">
+<a href="https://www.instagram.com/bozlur.rahman/">
+  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</td>
+</tr>
+</table>
+
+
+
+# Contributions
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bozlurrahman&theme=dracula&hide_border=true)
+
+
+
+## &#x1f4c8; GitHub Stats 🔥 GitHub Streak
+
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/bozlurrahman"  >
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozlurrahman&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+    </td>
+    <td>
+     <a href="https://github.com/bozlurrahman">
+          <img  width="100%" style="align-content: flex-start"  src="https://github-readme-stats.vercel.app/api?username=bozlurrahman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
+    </a>
+    </td>
+    <td>
+    <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=bozlurrahman&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
+           <img valign="center" width="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bozlurrahman&theme=solarized-dark&hide_border=true"/>
+     </a>
+    </td>
+  </tr>
+ </table>
+
+
+## &#x1f4c8;📌 Pinned Repositories
+
+<table>
+  <tr>
+     <td>
+<a href="https://github.com/bozlurrahman/Server-side-Development-with-NodeJS-Express-and-MongoDB.git">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=Server-side-Development-with-NodeJS-Express-and-MongoDB&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+     <td>
+<a href="https://github.com/bozlurrahman/Front-End-Web-Development-with-React.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=Front-End-Web-Development-with-React&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+     <td>
+<a href="https://github.com/bozlurrahman/fileserver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=fileserver&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+  </tr>
+  <tr>
+<td>
+<a href="https://github.com/bozlurrahman/reactjs-testing.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=reactjs-testing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+<td>
+<a href="https://github.com/bozlurrahman/webpack-dev.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=webpack-dev&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+<td>
+<a href="https://github.com/bozlurrahman/laravel_learning.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=laravel_learning&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+</tr>
+ </table>
