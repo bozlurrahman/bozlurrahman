@@ -76,17 +76,17 @@ Here are some ideas to get you started:
 </td>
 <td valign="center">
     <a href="https://twitter.com/bozlurrahmancmt">
-  <img align="left" alt="Dip's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Dip's Twitter" width="22px" src="https://raw.githubusercontent.com/bozlurrahman/bozlurrahman/main/assets/twitter.svg" />
 </a>
 </td>
 <td valign="center">
 <a href="https://www.linkedin.com/in/bozlurrahman/">
-  <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/bozlurrahman/bozlurrahman/main/assets/linkedin.svg" />
 </a>
 </td>
 <td valign="center">
 <a href="https://github.com/bozlurrahman">
-  <img align="left" alt="Dip's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Dip's Github" width="22px" src="https://raw.githubusercontent.com/bozlurrahman/bozlurrahman/main/assets/github.svg" />
 </a>
 </td>
 <td valign="center">
