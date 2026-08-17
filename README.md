@@ -1,167 +1,276 @@
-# Hi there, I'm Md. Bozlur Rahman 👋
-<!--
-**bozlurrahman/bozlurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=bozlurrahman&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-![Bozlur's github stats](https://github-readme-stats.vercel.app/api?username=bozlurrahman&count_private=true&show_icons=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozlurrahman&count_private=true&langs_count=8&hide=html,css&layout=compact)](https://github.com/bozlurrahman/github-readme-stats)
+# 👋 Hi, I'm Md. Bozlur Rahman
 
-### Languages and Tools:
+### Software Engineer • Full-Stack Developer • SaaS & Solution Architect
+
+> Building scalable web platforms, APIs, and distributed systems — from architecture and documentation to development, deployment, and production.
+
+I am a **Software Engineer and technical leader with 13+ years of professional experience** in web application development.
+
+My experience spans the complete software development lifecycle — from **requirements analysis, system architecture, and technical documentation to development, testing, deployment, and production support**.
+
+Currently, I work on **SaaS platform development**, focusing on scalable architectures, microservices, GraphQL federation, cloud infrastructure, and engineering standards while leading cross-functional development teams.
+
+---
+
+## 🧑‍💻 What I Do
+
+### 🏗️ Architecture & SaaS
+
+* 🏢 Enterprise **SaaS, eCommerce, ERP, CRM & CMS** platforms
+* 🧩 **Modular Architecture, Microservices, Distributed Systems**
+* 🔗 **GraphQL Federation, API Gateway, REST, GraphQL**
+* 🔄 **Event-Driven Architecture, Async Processing, Message Queues**
+* 🏪 **Multi-Tenant Architecture & Platform Engineering**
+* 📐 **System Design, SOLID, Clean Architecture**
+
+### 💻 Full-Stack Development
+
+* ⚛️ **React, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript**
+* 🟢 **Node.js, NestJS, Express.js, PHP, Laravel**
+* 🌐 **REST API, GraphQL, WebSockets, GraphQL Subscriptions**
+* 🧱 Component-based architecture, reusable modules & design systems
+* 📱 Web & mobile application backend/API platforms
+
+### 🗄️ Databases & Data
+
+* 🐘 **PostgreSQL, MySQL, MongoDB**
+* ⚡ **Redis, Caching, Sessions, Distributed Cache**
+* 🔎 **Elasticsearch, Search & Indexing**
+* 🔄 Database schema design, indexing, query & connection optimization
+* 📊 SQL/NoSQL data modeling and performance optimization
+
+### 🔐 Security & Identity
+
+* 🔑 **JWT, OAuth 2.0, OpenID Connect**
+* 👥 **RBAC, ABAC, Permission & Access Control**
+* 🛡️ Authentication, Authorization & API Security
+* 🔒 Token lifecycle, expiration, revocation & blacklisting
+* 🌐 Secure service-to-service communication
+* 🔐 **OWASP** security practices
+
+### ☁️ Cloud & Infrastructure
+
+* ☁️ **AWS, EC2, S3, CloudFront, Route 53**
+* 🐧 **Ubuntu, Linux, Nginx**
+* 🐳 **Docker & Containerization**
+* ⚙️ **PM2, Process Management & Production Operations**
+* 🏗️ Scalable, highly available cloud infrastructure
+
+### 🚀 DevOps & CI/CD
+
+* 🔄 **CI/CD, GitHub Actions, Jenkins**
+* 🌿 Git workflows, branching & release strategies
+* 🚢 Automated build, test & deployment pipelines
+* 📦 Development, staging & production environments
+* 🔙 Deployment validation, rollback & release management
+* 🏗️ **Infrastructure as Code (IaC)**
+
+### 🧪 Testing & Quality
+
+* 🧪 **Unit, Integration, E2E & API Testing**
+* 🔬 **Jest, PHPUnit, Playwright/Cypress**
+* 🔌 REST & GraphQL API testing
+* 🐛 Debugging, profiling & **Root Cause Analysis (RCA)**
+* 📋 Code Review, Quality Gates & Engineering Standards
+
+### 📊 Performance & Observability
+
+* ⚡ Frontend, backend & API performance optimization
+* 🗄️ Database, query, index & connection-pool optimization
+* 💾 **Redis Caching & Performance Optimization**
+* 📈 **Monitoring, Metrics, Logging & Alerting**
+* 🔍 **OpenTelemetry, Distributed Tracing**
+* 📝 Structured Logging & Incident Management
+* 🛡️ Reliability, Resilience, High Availability & Scalability
+
+### 🤖 AI & Modern Engineering
+
+* 🤖 **Generative AI, LLMs & AI-assisted Development**
+* 🔌 **OpenAI APIs, LLM APIs & AI Integrations**
+* 🧠 **RAG, Embeddings, Vector Search & Vector Databases**
+* 🔎 **Semantic Search & AI-powered Search**
+* 🛠️ AI-assisted coding, refactoring, testing & documentation
+* ⚙️ AI architecture, security, cost & performance considerations
+
+### 📨 Messaging & Distributed Systems
+
+* 📨 **RabbitMQ, Apache Kafka**
+* 🔄 Event-driven systems & asynchronous processing
+* 📬 Message brokers, queues, retries & dead-letter queues
+* ⚡ Background jobs & scheduled processing
+* 🔁 Idempotency, eventual consistency & fault tolerance
+
+### 🧠 Engineering Practices
+
+* 🧩 **SOLID, DRY, KISS, YAGNI**
+* 🏗️ **Clean Architecture, DDD, Design Patterns**
+* 🔌 API versioning, backward compatibility & contract design
+* 📦 Reusable modules, shared libraries & platform components
+* 📚 Technical documentation & architecture diagrams
+
+### 👥 Technical Leadership
+
+* 👨‍💻 Team leadership, mentoring & code reviews
+* 🧭 Technical & architectural decision-making
+* 📋 **PRD, BRD, SRS, SOP, RACI**
+* 🤝 Product, Business, Design, Development & SQA collaboration
+* 🗓️ Agile / Scrum development workflows
+* 🚀 Release planning & production coordination
+
+
+---
+
+## 🧱 Architecture & Engineering
+
+My primary engineering interests are around building systems that can evolve without becoming difficult to maintain.
+
+
+### Engineering Interests
+
+* Microservices architecture
+* GraphQL Federation
+* Distributed systems
+* Multi-tenant SaaS
+* API design
+* Database architecture
+* Caching strategies
+* Authentication & authorization
+* Performance optimization
+* System reliability
+* Cloud deployment
+* CI/CD
+* Observability
+
+---
+
+# 🛠️ Technology Stack
+
+## Frontend
+
 <p>
-<img 
-     src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" 
-     alt="PHP" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
-     alt="Javascript" height="50" style="vertical-align:top; margin:4px">
-<!-- <img 
-     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
-     alt="Python" height="50" style="vertical-align:top; margin:4px"> -->
-<!-- <img 
-     src="https://bashlogo.com/img/logo/jpg/full_colored_dark.jpg" 
-     alt="Bash" height="50" style="vertical-align:top; margin:4px"> -->
-<!--  <img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" 
-     alt="Vim" height="50" style="vertical-align:top; margin:4px"> -->
-  <img 
-     src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
-     alt="HTML" height="50" style="vertical-align:top; margin:4px">
-  <img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
-     alt="CSS" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" 
-     alt="Node.js" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="45" alt="Nuxt.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
 </p>
 
-### Frameworks/CMS:
+**React • Next.js • Vue.js • Nuxt.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS**
+
+---
+
+## Backend
+
 <p>
-<img 
-     src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" 
-     alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" 
-     alt="WordPress" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://cdn.auth0.com/blog/react-js/react.png" 
-     alt="React JS" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" 
-     alt="Vue.js" height="50" style="vertical-align:top; margin:10px">
-<img 
-     src="https://transang.me/content/images/2019/11/ExpressJS.png"
-     alt="expressJS" height="50" style="vertical-align:top; margin:10px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" alt="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" alt="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" alt="GraphQL"/>
 </p>
 
+**Node.js • NestJS • Express.js • PHP • Laravel • GraphQL • REST • WebSockets**
 
-- 🌱 I’m currently learning Node.js and working on some other projects.
+---
 
-- 📫 How to reach me: bozlurrahman.cmt@gmail.com
+## Database & Data
 
-<table>
-<tr >
-<td valign="center">
-    <a href="https://www.facebook.com/bozlurrahman.cmt/">
-  <img align="left" alt="Dip's Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
-</a>
-</td>
-<td valign="center">
-    <a href="https://twitter.com/bozlurrahmancmt">
-  <img align="left" alt="Dip's Twitter" width="22px" src="https://raw.githubusercontent.com/bozlurrahman/bozlurrahman/main/assets/twitter.svg" />
-</a>
-</td>
-<td valign="center">
-<a href="https://www.linkedin.com/in/bozlurrahman/">
-  <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/bozlurrahman/bozlurrahman/main/assets/linkedin.svg" />
-</a>
-</td>
-<td valign="center">
-<a href="https://github.com/bozlurrahman">
-  <img align="left" alt="Dip's Github" width="22px" src="https://raw.githubusercontent.com/bozlurrahman/bozlurrahman/main/assets/github.svg" />
-</a>
-</td>
-<td valign="center">
-<a href="https://www.instagram.com/bozlur.rahman/">
-  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</td>
-</tr>
-</table>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma"/>
+</p>
 
+**PostgreSQL • MySQL • MongoDB • Redis • Prisma**
 
+---
 
-# Contributions
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bozlurrahman&theme=dracula&hide_border=true)
+## ☁️ DevOps & Infrastructure
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS"/>
+</p>
 
+**AWS • Ubuntu • Nginx • Docker • PM2 • Git • GitHub • CI/CD**
 
-## &#x1f4c8; GitHub Stats 🔥 GitHub Streak
+---
 
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/bozlurrahman"  >
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozlurrahman&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-    </td>
-    <td>
-     <a href="https://github.com/bozlurrahman">
-          <img  width="100%" style="align-content: flex-start"  src="https://github-readme-stats.vercel.app/api?username=bozlurrahman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
-    </a>
-    </td>
-    <td>
-    <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=bozlurrahman&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
-           <img valign="center" width="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bozlurrahman&theme=solarized-dark&hide_border=true"/>
-     </a>
-    </td>
-  </tr>
- </table>
+# 📊 GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bozlurrahman&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bozlurrahman\&hide_border=true)
+
+---
 
 
-## &#x1f4c8;📌 Pinned Repositories
 
-<table>
-  <tr>
-     <td>
-<a href="https://github.com/bozlurrahman/Server-side-Development-with-NodeJS-Express-and-MongoDB.git">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=Server-side-Development-with-NodeJS-Express-and-MongoDB&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-     <td>
-<a href="https://github.com/bozlurrahman/Front-End-Web-Development-with-React.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=Front-End-Web-Development-with-React&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-     <td>
-<a href="https://github.com/bozlurrahman/fileserver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=fileserver&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-  </tr>
-  <tr>
-<td>
-<a href="https://github.com/bozlurrahman/reactjs-testing.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=reactjs-testing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-<td>
-<a href="https://github.com/bozlurrahman/webpack-dev.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=webpack-dev&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-<td>
-<a href="https://github.com/bozlurrahman/laravel_learning.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozlurrahman&repo=laravel_learning&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-</tr>
- </table>
+# 🌱 Currently Exploring
+
+```text
+SaaS Architecture
+        │
+        ├── Microservices
+        ├── GraphQL Federation
+        ├── Distributed Systems
+        ├── Multi-Tenant Architecture
+        └── Cloud Infrastructure
+
+Engineering Leadership
+        │
+        ├── Architecture Decisions
+        ├── Development Standards
+        ├── Technical Documentation
+        ├── Team Mentoring
+        └── Delivery & Reliability
+```
+
+---
+
+# 💼 Professional Focus
+
+I am particularly interested in opportunities involving:
+
+* Software Architecture
+* Full-Stack Engineering
+* SaaS Platform Development
+* Backend Engineering
+* Distributed Systems
+* Microservices
+* GraphQL
+* Technical Leadership
+* Engineering Management
+
+---
+
+# 🤝 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bozlurrahman.cmt/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bozlurrahmancmt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bozlurrahman/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bozlur.rahman/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bozlurrahman.cmt@gmail.com)
+
+---
+
+<p align="center">
+  <i>Design thoughtfully. Build reliably. Keep learning.</i>
+</p>
